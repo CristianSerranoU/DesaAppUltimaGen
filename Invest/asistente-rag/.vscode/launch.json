@@ -1,0 +1,25 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Streamlit: app.py",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "app.py"],
+      "justMyCode": true
+    },
+    {
+      "name": "Indexar FAQs (src.ingest)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "src.ingest"
+    },
+    {
+      "name": "Evaluar recuperación (src.evaluar)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "src.evaluar"
+    }
+  ]
+}

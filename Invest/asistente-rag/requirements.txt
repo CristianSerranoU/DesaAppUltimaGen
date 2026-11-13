@@ -1,0 +1,5 @@
+ollama>=0.4
+chromadb>=0.5
+rank-bm25>=0.2.2
+streamlit>=1.40
+pytest>=8

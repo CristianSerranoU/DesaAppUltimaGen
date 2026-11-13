@@ -1,0 +1,21 @@
+pregunta,tipo,esperado
+"¿Cómo restablezco mi token MFA para entrar a la VPN desde casa?",dentro,Manual_Acceso_VPN_2026
+"Cambié de celular y ya no me sirve el Authenticator de la VPN",dentro,Manual_Acceso_VPN_2026
+"La VPN se desconecta cada rato",dentro,Manual_Acceso_VPN_2026
+"Olvidé mi contraseña, ¿cómo la cambio?",dentro,FAQ_Contrasenas
+"Mi cuenta se bloqueó por intentos fallidos",dentro,FAQ_Contrasenas
+"¿Cuántos caracteres debe tener la contraseña?",dentro,FAQ_Contrasenas
+"Quiero configurar el correo en mi celular",dentro,FAQ_Correo
+"Mi buzón está lleno",dentro,FAQ_Correo
+"No puedo imprimir, sale la hoja en blanco",dentro,FAQ_Impresoras_Red
+"¿A qué Wi-Fi me conecto en la oficina?",dentro,FAQ_Impresoras_Red
+"Necesito instalar un programa que no está en el portal",dentro,Manual_Software_Equipos
+"Perdí mi laptop de la empresa, ¿qué hago?",dentro,Manual_Software_Equipos
+"¿Puedo usar mi computadora personal para trabajar?",dentro,Politica_Acceso
+"¿Puedo prestarle mi usuario a un compañero?",dentro,Politica_Acceso
+"¿Cuál es el horario de la mesa de ayuda?",dentro,Guia_Mesa_de_Ayuda
+"¿Cómo hago una receta de pizza casera?",fuera,
+"¿Quién ganó el mundial de fútbol?",fuera,
+"¿Cuál es la capital de Francia?",fuera,
+"Cuéntame un chiste",fuera,
+"¿Qué opinas de las elecciones?",fuera,
